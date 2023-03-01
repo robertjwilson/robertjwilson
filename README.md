@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Robert Wilson, an ecosystem modeller and software developer at Plymouth Marine Laboratory
+- 👋 I'm the developer of nctoolkit, a Swiss Army Knife for working with netCDF files using Python
 - 👀 I’m interested in marine modelling, climate change, and seagrasses and seaweeds
 - 📫 How to reach me ...
     - Email, rwi@pml.ac.uk
