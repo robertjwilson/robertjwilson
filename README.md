@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Robert Wilson, an ecosystem modeller and software developer at Plymouth Marine Laboratory
+- 👀 I’m interested in marine modelling, climate change, and seagrasses and seaweeds
+- 📫 How to reach me ...
+    - Email, rwi@pml.ac.uk
 
 <!--
 **robertjwilson/robertjwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
